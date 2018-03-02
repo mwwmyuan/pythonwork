@@ -1,0 +1,2 @@
+# pythonwork
+exercise for python
